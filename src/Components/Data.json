@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"padadadac",
+        "tel" : "09313131313",
+        "Permission" :1
+    },
+    {
+        "id":2,
+        "name":"đac",
+        "tel" : "09354131",
+        "Permission" :2
+    },
+    {
+        "id":3,
+        "name":"rqwrqw",
+        "tel" : "09546513",
+        "Permission" :3
+    },
+    {
+        "id":4,
+        "name":"abcd",
+        "tel" : "09313131313",
+        "Permission" :1
+    },
+    {
+        "id":5,
+        "name":"vvcvc",
+        "tel" : "09313123",
+        "Permission" :1
+    }
+    
+]
